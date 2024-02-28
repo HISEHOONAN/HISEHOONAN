@@ -1,13 +1,6 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=Shark&color=b197d1&height=120&stroke=b678c4&strokeWidth=2"/>
-  
-  
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=HISEHOONAN&fontColor=000000&fontSize=80&stroke=b678c4&strokeWidth=2"/>
-  
-  <br>
 
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=HISEHOONAN&fontColor=000000&fontSize=80&stroke=b678c4&strokeWidth=2"/>
 
   <br>
       <p>
