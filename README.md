@@ -1,4 +1,18 @@
 <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=Shark&color=b197d1&height=120&stroke=b678c4&strokeWidth=2"/>
+  
+  
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=HISEHOONAN&fontColor=000000&fontSize=80&stroke=b678c4&strokeWidth=2"/>
+  
+  <br>
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=HISEHOONAN&fontColor=FFFFFF&fontSize=80)
-![body](https://img.shields.io/badge/any_text-you_like-blue)
+  <br>
+
+  <br>
+      <p>
+        <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>
+      </p>
+  <br>
+</div>
