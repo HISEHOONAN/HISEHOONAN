@@ -7,4 +7,4 @@
    </p>
 <br>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='HISEHOONAN'&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='HISEHOOAN')](https://github.com/anuraghazra/github-readme-stats)
